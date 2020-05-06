@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: rgb(139, 90, 0);
+}
+form {
+    display: inline-block;
+}form {
+    position : relative;
+    width  : 900px;
+    height : 298px;
+    margin : 4px;
+    padding: 1em;
+    box-sizing: border-box;
+    background :burlywood ;
+}
+img {
+    float: left;
+    border-radius: 100%;
+}
