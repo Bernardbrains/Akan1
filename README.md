@@ -18,7 +18,7 @@ chrome browser
 The webapp doest not require any webserver it just run through a mouse click
 
 ## Link to live website
-*
+*https://bernardbrains.github.io/Akan1/
 
 ## Known Bugs
 
