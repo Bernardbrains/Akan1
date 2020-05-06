@@ -1,5 +1,5 @@
 # AKAN NAMES GENERATOR
-This web app compute the akan name in relation to gender and the day ofthe week someone was born
+This web app computes the akan name in relation to gender and the day ofthe week someone was born
 ## Description
 This application inputs the date of birth with the following initials:
 *year
